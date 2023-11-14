@@ -1,0 +1,26 @@
+body{
+    background-color: coral;
+    font-family:Griffy;
+    font-size: 25px;
+    }
+    
+    #word1{
+        color: red;
+    }
+    
+    #button1{
+        background-color: orangered;
+        font-size: larger;
+        font-family:Griffy;
+    }
+    
+    #div1{
+        background-color: cyan;
+        padding: 20px;
+        border-radius: 5px;
+    }
+    
+    img{
+        width:200px;
+        height:200px;
+    }
